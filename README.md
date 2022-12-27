@@ -20,4 +20,8 @@ Simple SDF collision detection and impulse responding.
 Users can press 'space' to make it jump. If you press too hard, the impulse will be too much to make it explode.
 
 ## Effects
-<img width="374" alt="image" src="https://user-images.githubusercontent.com/53171201/209613493-9e6ce716-2881-4b51-bc78-9308ccbad86e.png">
+
+The effects of both methods are exactly the same.
+
+https://user-images.githubusercontent.com/53171201/209669599-81fd3844-ce6f-40ca-9688-64c1679c2817.mov
+
